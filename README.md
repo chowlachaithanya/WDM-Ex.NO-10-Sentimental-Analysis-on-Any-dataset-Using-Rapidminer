@@ -45,8 +45,9 @@ e. Click on the "Run" button to export the sentiment analysis results to a new E
 
 **Output:**<br>
 
-<img width="1033" height="580" alt="image" src="https://github.com/user-attachments/assets/a551c8a2-f265-4dd8-b61d-d8c6a2020475" />
+<img width="1056" height="987" alt="Screenshot 2026-11-02 104412" src="https://github.com/user-attachments/assets/e324c7f6-2610-42b6-8aac-14a8e8ffa4bc" />
 
 
 
 **Result:**
+Sentimental Analysis on Twitter Dataset Using Rapidminer is implemented.
